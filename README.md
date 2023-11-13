@@ -15,8 +15,11 @@ Este taller cuenta con el apoyo de Diseño UDP.
 ## Proyectos
 
 * [proyectos/00-vacio/](./proyectos/00-vacio/index.html)
+* [proyecots/01-cara](./)
 
 ## Bibliografía
+
+* Curso https://github.com/ml5js/Intro-ML-Arts-IMA-F23
 
 Andreas Refsgaard
 Gene Kogan
