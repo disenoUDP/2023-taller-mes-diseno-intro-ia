@@ -12,6 +12,10 @@ Este taller cuenta con el apoyo de Diseño UDP.
 
 ![invitación de instagram](./grafica-invitacion.jpg)
 
+## Proyectos
+
+* [proyectos/00-vacio/](./proyectos/00-vacio/index.html)
+
 ## Bibliografía
 
 Andreas Refsgaard
