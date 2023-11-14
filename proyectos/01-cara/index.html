@@ -2,13 +2,34 @@
 <html lang="en">
   <head>
     <script src="./lib/p5.js"></script>
+    <script src='./lib/ml5.min.js'></script>
     <link rel="stylesheet" type="text/css" href="./style.css">
     <meta charset="utf-8" />
+    <title>cámara entrenable</title>
 
   </head>
   <body>
-    <main>
-    </main>
+    <h3>Cámara entrenable: entrena un modelo para que la webcam tome una foto</h3>
+    <h6><span id="estadoModelo">Cargando modelo...</span></h6>
+    <p>
+      <button id="botonA">Cuando NO tomar una foto</button>
+    <p><span id="cantidadImagenesA">0</span> Ejemplos</p>
+    <br><button id="botonB">Cuando SÍ tomar una foto</button>
+    <p><span id="cantidadImagenesB">0</span> Ejemplos</p>
+    <br>
+  <p><button id="entrenar">Entrenar</button><span id="perdida"></span></p>
+  <br>
+  <p>
+    <button id="botonPredecir">Empezar a predecir!</button><br>
+    Tu modelo etiquetó esto como: <span id="resultado">...</span>,
+    con una confianza de <span id="confianza">...</span>.
+  </p>
+  <br>
+    </p>
     <script src="sketch.js"></script>
   </body>
 </html>
+
+<html>
+
+
