@@ -15,8 +15,8 @@ Este taller es dictado y escrito por [Aarón Montoya-Moraga](https://github.com/
 
 ## Bibliografía
 
-- https://www.andreasrefsgaard.dk/ Andreas Refsgaard
-- Daniel Shiffman https://thecodingtrain.com/
+- Andreas Refsgaard [https://www.andreasrefsgaard.dk/]()
+- Daniel Shiffman [https://thecodingtrain.com/](https://thecodingtrain.com/)
 - Gene Kogan https://genekogan.com/
 - Inteligencia Artificial para diseñadores https://github.com/disenoUChile/audiv027-2023-2
 - Introduction to Machine Learning for Arts https://github.com/ml5js/Intro-ML-Arts-IMA-F23
