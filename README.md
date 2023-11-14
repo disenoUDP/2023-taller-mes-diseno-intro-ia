@@ -11,7 +11,7 @@ Este taller es dictado y escrito por [Aarón Montoya-Moraga](https://github.com/
 ## Proyectos
 
 * [proyectos/00-vacio/](./proyectos/00-vacio/index.html)
-* [proyectos/01-cara](./)
+* [proyectos/01-camara-entrenable](./proyectos/01-camara-entrenable/)
 
 ## Bibliografía
 
