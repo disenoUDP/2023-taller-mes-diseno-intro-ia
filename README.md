@@ -11,7 +11,9 @@ Este taller es dictado y escrito por [Aarón Montoya-Moraga](https://github.com/
 ## Proyectos
 
 * [proyectos/00-vacio/](./proyectos/00-vacio/index.html)
-* [proyectos/01-camara-entrenable](./proyectos/01-camara-entrenable/)
+* [proyectos/01-deteccion-imagen/](./proyectos/01-deteccion-imagen/)
+* [proyectos/02-camara-entrenable/](./proyectos/02-camara-entrenable/)
+* [proyectos/03-regresion-imagenes/](./proyectos/03-regresion-imagenes/)
 
 ## Bibliografía
 
