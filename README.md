@@ -15,7 +15,7 @@ Este taller es dictado y escrito por [Aarón Montoya-Moraga](https://github.com/
 
 ## Bibliografía
 
-- Andreas Refsgaard https://www.andreasrefsgaard.dk/
+- https://www.andreasrefsgaard.dk/ Andreas Refsgaard
 - Daniel Shiffman https://thecodingtrain.com/
 - Gene Kogan https://genekogan.com/
 - Inteligencia Artificial para diseñadores https://github.com/disenoUChile/audiv027-2023-2
